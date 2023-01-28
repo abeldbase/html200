@@ -1,0 +1,21 @@
+*
+button {
+    padding: 0;
+    line-height: inherit;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+  }
+.adopt-btn {
+    padding: 1rem 1rem;
+    border-radius: .5rem;
+    font-weight: bold;
+    font-size: large;
+    color: #fff;
+    background-color: #81b741;
+    width: 50%;
+    margin: 11rem 10% 10% 11rem;
+  }
+  
